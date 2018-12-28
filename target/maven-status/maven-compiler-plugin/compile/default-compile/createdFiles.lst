@@ -1,0 +1,5 @@
+com\qetch\spring\controller\UserController.class
+com\qetch\spring\dao\UserDao.class
+com\qetch\spring\service\UserService.class
+com\qetch\spring\entity\User.class
+com\qetch\spring\service\impl\UserServiceImpl.class
